@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"index.tsx -> @/components/Hero3D":{"id":"index.tsx -> @/components/Hero3D","files":["static/chunks/src_components_Hero3D_tsx.js"]}}
